@@ -1,0 +1,225 @@
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\appsettings.Development.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\appsettings.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.exe
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.deps.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.runtimeconfig.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.pdb
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Humanizer.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.AssemblyReference.cache
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.AssemblyInfoInputs.cache
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.AssemblyInfo.cs
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.CoreCompileInputs.cache
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.WorkSpaceManagemetApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkSpaceManagemetApi.props
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkSpaceManagemetApi.props
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkSpaceManagemetApi.props
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\scopedcss\bundle\WorkSpaceManagemetApi.styles.css
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.CopyComplete
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\refint\WorkSpaceManagemetApi.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.pdb
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.genruntimeconfig.cache
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\ref\WorkSpaceManagemetApi.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\DOC\Figma Project\Workspace_API\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\appsettings.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.exe
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.deps.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.runtimeconfig.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.pdb
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.BusinessLayer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.DataAccessLayer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.BusinessLayer.pdb
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.DataAccessLayer.pdb
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.AssemblyReference.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.AssemblyInfoInputs.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.AssemblyInfo.cs
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.CoreCompileInputs.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\scopedcss\bundle\WorkSpaceManagemetApi.styles.css
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.CopyComplete
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\refint\WorkSpaceManagemetApi.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.pdb
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.genruntimeconfig.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkSpaceManagemetApi\obj\Debug\net6.0\ref\WorkSpaceManagemetApi.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\appsettings.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.exe
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.deps.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.runtimeconfig.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkSpaceManagemetApi.pdb
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Humanizer.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.BusinessLayer.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.DataAccessLayer.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.BusinessLayer.pdb
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\bin\Debug\net6.0\WorkspaceManagement.DataAccessLayer.pdb
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.AssemblyReference.cache
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.AssemblyInfoInputs.cache
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.AssemblyInfo.cs
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.CoreCompileInputs.cache
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.WorkSpaceManagemetApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkSpaceManagemetApi.props
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkSpaceManagemetApi.props
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkSpaceManagemetApi.props
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\scopedcss\bundle\WorkSpaceManagemetApi.styles.css
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.csproj.CopyComplete
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\refint\WorkSpaceManagemetApi.dll
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.pdb
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\WorkSpaceManagemetApi.genruntimeconfig.cache
+D:\GitHub\WorkSpaceManagementApi\WorkSpaceManagemetApi\obj\Debug\net6.0\ref\WorkSpaceManagemetApi.dll

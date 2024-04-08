@@ -1,0 +1,14 @@
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\bin\Release\net6.0\WorkspaceManagement.DataAccessLayer.deps.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\bin\Release\net6.0\WorkspaceManagement.DataAccessLayer.runtimeconfig.json
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\bin\Release\net6.0\WorkspaceManagement.DataAccessLayer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\bin\Release\net6.0\WorkspaceManagement.DataAccessLayer.pdb
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.AssemblyInfo.cs
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\refint\WorkspaceManagement.DataAccessLayer.dll
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.pdb
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\WorkspaceManagement.DataAccessLayer.genruntimeconfig.cache
+C:\Users\itzsa\source\repos\WorkSpaceManagemetApi\WorkspaceManagement.DataAccessLayer\obj\Release\net6.0\ref\WorkspaceManagement.DataAccessLayer.dll

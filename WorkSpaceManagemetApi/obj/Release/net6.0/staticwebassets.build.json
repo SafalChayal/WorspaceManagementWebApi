@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pvW1XqHANztgdxIGuvwnZjN4Qti0LQ6W3cSqwQtZPmI=",
+  "Source": "WorkSpaceManagemetApi",
+  "BasePath": "_content/WorkSpaceManagemetApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
